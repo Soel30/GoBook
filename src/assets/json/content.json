@@ -1,0 +1,202 @@
+{
+    "data": [
+        {
+            "title": "The Amazing Spiderman",
+            "cover": "https://www.themoviedb.org/t/p/original/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "Mortal Kombat",
+            "cover": "https://www.themoviedb.org/t/p/original/6Wdl9N6dL0Hi0T1qJLWSz6gMLbd.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "Godzila Vs. Kong",
+            "cover": "https://www.themoviedb.org/t/p/original/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "Nobody",
+            "cover": "https://www.themoviedb.org/t/p/original/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "Thunder Forces",
+            "cover": "https://www.themoviedb.org/t/p/original/279yOM4OQREL36B3SECnRxoB4MZ.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "Zack Snyder's Justice League",
+            "cover": "https://www.themoviedb.org/t/p/original/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "The Marksman",
+            "cover": "https://www.themoviedb.org/t/p/original/6vcDalR50RWa309vBH1NLmG2rjQ.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "The Unholy",
+            "cover": "https://www.themoviedb.org/t/p/original/b4gYVcl8pParX8AjkN90iQrWrWO.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "Chaos Walking",
+            "cover": "https://www.themoviedb.org/t/p/original/9kg73Mg8WJKlB9Y2SAJzeDKAnuB.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "Raya and the Last Dragon",
+            "cover": "https://www.themoviedb.org/t/p/original/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        },
+        {
+            "title": "Kimetsu no Yaiba the Movie: Mugen Trains",
+            "cover": "https://www.themoviedb.org/t/p/original/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fantasy"
+                },
+                {
+                    "name": "Historical"
+                }
+            ]
+        }
+    ]
+}
